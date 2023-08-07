@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ in order to create games
 - ⚡ Fun fact 1: I didn't know anything Computer Science related until I went to University
 - ⚡ Fun fact 2: I am about to start my PGDE (PostGraduate Diploma in Education) to become a Computer Science teacher!
-- 💬 Ask me about my time at University of Birmingham
+- 💬 Ask me about my time at University of Birmingham or the PGDE process
 <!--
 **InfiniteInfinities/InfiniteInfinities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
